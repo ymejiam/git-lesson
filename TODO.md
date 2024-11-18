@@ -10,3 +10,4 @@ This is my todo list for 2024-22-18...
     - Work in the ones with more prioty 
 - Work 
 - Go home
+- Review stuff of oscar's appointment
