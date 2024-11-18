@@ -6,5 +6,7 @@ This is my todo list for 2024-22-18...
 - Warm my lunch 
 - Go and say hi to my friends
 - Go to work 
+    - Prioritize my tasks
+    - Work in the ones with more prioty 
 - Work 
 - Go home
